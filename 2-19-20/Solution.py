@@ -1,8 +1,8 @@
 #main() contains test cases for the solutionArray() and BonusArray() method
 #solutionArrays' values are equal to every other index's value in the initial
 #array multiplied together
-#Not sure if the bonus solution is a true solution because it still has to
-#loop over the new array to multiply to each index.
+
+#Bonus Array is a much cleaner way to write it in my opinion
 
 def main():
     array1 = [1, 2, 3, 4, 5]
